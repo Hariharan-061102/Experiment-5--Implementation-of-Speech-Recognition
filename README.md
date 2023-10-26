@@ -16,6 +16,10 @@ Step 7:Print the transcribed text on the console if the transcribe process was s
 Step 8:Handle any potential errors during the transcribing process. If the audio is not clear, print "not clear". If there's an error while trying to retrieve the transcribed text from the Google speech recognizer, print "Couldnt get results from google speech recognizer".<br>
 
 ## Program:
+```
+Name: M.Hariharan
+Reg.No: 212221230034
+```
 ```python3
 import speech_recognition as sr
 file=("xxx.wav")
